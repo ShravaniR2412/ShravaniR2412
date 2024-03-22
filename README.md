@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Shravani Rasam
-- -Passionate Full-stack developer
+-Passionate Full-stack developer
