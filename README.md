@@ -16,7 +16,7 @@ Here are some of the technologies and tools I work with:
 ## 💬 Contact Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shravanirasam02/)
-- Email: [Email Address](shravanirasam0212@gmail.com)
+- Email: shravanirasam0212@gmail.com
 
 
 
