@@ -3,6 +3,11 @@
 
 Welcome to my GitHub profile! I'm Shravani Shankar Rasam, a passionate Full-Stack Developer based in Navi Mumbai,India. Here you'll find a collection of my projects, contributions, and more. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
+## 🌐 My Portfolio
+
+Check out my personal portfolio website here:  
+🔗 [shravani-rasam.vercel.app](https://shravani-rasam.vercel.app)
+
 ## 🌱 Skills
 
 Here are some of the technologies and tools I work with:
