@@ -12,7 +12,7 @@
 ### 🚀 **SIH 2025 Winner | SIH 2024 Winner | MumbaiHacks'25 Winner**
 ### 💡 Full Stack Developer | VESIT INFT'26 | Passionate about AI/ML & Scalable Web Solutions
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shravanirasam.codingurus.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shravanirasam.codinggurus.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravanirasam02/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanirasam0212@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ShravaniR2412&color=blueviolet&style=for-the-badge)](https://github.com/ShravaniR2412)
