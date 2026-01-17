@@ -12,7 +12,7 @@
 ### 🚀 **SIH 2025 Winner | SIH 2024 Winner | MumbaiHacks'25 Winner**
 ### 💡 Full Stack Developer | VESIT INFT'26 | Passionate about AI/ML & Scalable Web Solutions
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shravani-rasam.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shravanirasam.codingurus.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravanirasam02/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanirasam0212@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ShravaniR2412&color=blueviolet&style=for-the-badge)](https://github.com/ShravaniR2412)
@@ -82,6 +82,7 @@ Won prestigious National level SIH Software Edition, competing against 300+ team
 🔗 [View Achievement](https://www.linkedin.com/posts/shravanirasam02_smartindiahackathon-innovation-activity-7273977337908518912-u-_a)
 
 </td>
+
 <td width="50%">
 
 ### 🥈 KakushIN 9.0 - 2nd Runners Up
@@ -93,31 +94,9 @@ Built a GenAI powered solution with strong development skills and user-focused d
 🔗 [View Achievement](https://www.linkedin.com/posts/shravanirasam02_nomurakakushin9-swachhsagar-activity-7352588007767523328-kuh-)
 
 </td>
+
 </tr>
-<tr>
-<td width="50%">
 
-### 🥈 CodeCrafters 2.0 - 1st Runners Up
-**Saraswati College of Engineering**  
-*March 2025*
-
-Secured 2nd place for building MoneyMitra. Ranked 1st in Web Development track.
-
-🔗 [View Achievement](https://www.linkedin.com/posts/shravanirasam02_hackathon-codinggurus-codecrafters2-activity-7307700505764327424-aNiU)
-
-</td>
-<td width="50%">
-
-### 🥉 Rotacodefest 2024 - 2nd Runners Up
-**Rotary Club Of Ghatkopar West**  
-*March 2024*
-
-Built **WasteWiseWeb**, a web-based solution for efficient waste management driving digital transformation.
-
-🔗 [View Achievement](https://www.linkedin.com/posts/darshankhapekar_rotacodefest-hackathonwinners-teamwork-ugcPost-7175136366341570562-dp_X)
-
-</td>
-</tr>
 </table>
 
 ---
@@ -176,94 +155,6 @@ Built **WasteWiseWeb**, a web-based solution for efficient waste management driv
 
 <div align="center">
 
-## 🌟 **Featured Projects**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50">
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🏛️ Sahkaar Setu</h3>
-
-<div align="center">
-
-[![View Demo](https://img.shields.io/badge/🎥_Demo-FF0000?style=for-the-badge)](https://www.youtube.com/watch?v=vcizS6j9tvI)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ShravaniR2412)
-
-**SIH 2025 Winner Project**
-
-Revolutionizing urban governance with centralized data sharing and AI-powered task management for better interdepartmental coordination.
-
-`React` `Django` `Firebase` `LLaMA` `Leaflet.js`
-
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🔬 Research Mate</h3>
-
-<div align="center">
-
-[![View Demo](https://img.shields.io/badge/🎥_Demo-FF0000?style=for-the-badge)](https://drive.google.com/file/d/1tlcMT77VzQ6V_z5txPDGXEOCCqVosd3-/view)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ShravaniR2412/Reserach-Mate)
-
-**AI Research Assistant**
-
-Streamlines academic research with AI chatbot, mentor connections, IEEE formatting, and plagiarism checks.
-
-`React` `FastAPI` `LLaMA` `BERT` `WebSockets`
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">💰 Money Mitra</h3>
-
-<div align="center">
-
-[![View Demo](https://img.shields.io/badge/🎥_Demo-FF0000?style=for-the-badge)](https://linktr.ee/codinggurus)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ShravaniR2412/CodeCrafters)
-
-**MumbaiHacks 2025 Winner**
-
-Award-winning multilingual financial companion with AI-powered insights and real-time portfolio tracking.
-
-`React` `Firebase` `ShadCN UI` `Flask`
-
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">♻️ Waste Wise Web</h3>
-
-<div align="center">
-
-[![View Demo](https://img.shields.io/badge/🎥_Demo-FF0000?style=for-the-badge)](https://youtu.be/0fSSNBTcxBE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ShravaniR2412/rotacodefest)
-
-**Rotacodefest 2024 Winner**
-
-Web-based waste management platform with geo-tagged bins, statistics, and sustainability guides.
-
-`React` `Firebase` `Google Maps API` `Chart.js`
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 📊 **GitHub Statistics**
 
@@ -273,13 +164,13 @@ Web-based waste management platform with geo-tagged bins, statistics, and sustai
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShravaniR2412&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Shravani's GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravaniR2412&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=FFFFFF&ring_color=C792EA)
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniR2412&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Shravani's Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShravaniR2412&theme=tokyonight&hide_border=true&background=0D1117&ring=C792EA&fire=FF6B6B&currStreakLabel=C792EA&sideLabels=FFFFFF&dates=FFFFFF)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniR2412&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniR2412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF&langs_count=8)
 
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=ShravaniR2412&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShravaniR2412&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title_color=C792EA&text_color=FFFFFF&icon_color=C792EA)
 
 </div>
 
@@ -301,14 +192,12 @@ Web-based waste management platform with geo-tagged bins, statistics, and sustai
 
 **I'm always excited to collaborate on innovative projects and discuss new opportunities!**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge)](https://shravani-rasam.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge)](https://shravanirasam.codinggurus.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravanirasam02/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanirasam0212@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShravaniR2412)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
