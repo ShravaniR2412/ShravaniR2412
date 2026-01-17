@@ -166,7 +166,7 @@ Built a GenAI powered solution with strong development skills and user-focused d
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravaniR2412&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=FFFFFF&ring_color=C792EA)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShravaniR2412&theme=tokyonight&hide_border=true&background=0D1117&ring=C792EA&fire=FF6B6B&currStreakLabel=C792EA&sideLabels=FFFFFF&dates=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShravaniR2412&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniR2412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF&langs_count=8)
 
